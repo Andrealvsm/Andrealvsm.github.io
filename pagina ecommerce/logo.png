@@ -1,0 +1,6 @@
+.logo {
+    background-image: url(12889_capa-galo-1024x576.jpg);
+    background-size: cover;
+    width: 200px;
+    height: 200px;
+  }
